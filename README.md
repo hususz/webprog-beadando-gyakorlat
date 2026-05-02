@@ -12,3 +12,11 @@ Ez a webalkalmazás a Web-programozás 1 tárgy gyakorlati beadandó feladataké
 *   MySQL / MariaDB
 *   HTML5 & CSS3 (Flexbox reszponzív dizájn)
 *   JavaScript (Kliensoldali űrlap validáció)
+
+### Élesítési és belépési adatok
+A projekt publikusan elérhető az alábbi URL címen:
+**Weboldal URL:** http://gamfbeadandogyakorlat.nhely.hu/
+
+**Nethely FTP és Adatbázis elérés (az értékeléshez):**
+*   FTP szerver: ftp.nethely.hu
+*   Adatbázis név: [gyakorlat7]
